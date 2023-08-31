@@ -61,3 +61,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+.DS_Store
+
+My project/.idea/.idea.My project/.idea/
+
+My project/Assets/TextMesh Pro/
